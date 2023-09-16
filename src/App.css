@@ -1,0 +1,12 @@
+html {
+  font-size: 62.5%;
+}
+
+.App {
+  padding: 4rem;
+  display: flex;
+  gap: 4rem;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
